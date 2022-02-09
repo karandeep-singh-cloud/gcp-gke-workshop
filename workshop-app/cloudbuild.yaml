@@ -89,5 +89,5 @@ steps:
 
 availableSecrets:
   secretManager:
-  - versionName: projects/407835880999/secrets/jfrog-access-token/versions/1
+  - versionName: projects/434083107982/secrets/jfrog-access-token/versions/1
     env: 'JFROG_ACCESS_TOKEN'
