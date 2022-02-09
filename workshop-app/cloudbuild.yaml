@@ -5,10 +5,10 @@
 # $ gcloud builds submit . --config=cloudbuild.yaml
 
 substitutions:
-  _JFROG_SERVER_NAME: karanworkshop.jfrog.io
+  _JFROG_SERVER_NAME: karanworkshopnew.jfrog.io
   _JFROG_REPO_NAME: clouddays
   _JFROG_CLI_VERSION: 2.11.0
-  _JFROG_USER: karandeepsingh852@gmail.com
+  _JFROG_USER: kdsingh7866@gmail.com
 
 steps:
 - name: 'gcr.io/cloud-builders/docker'
